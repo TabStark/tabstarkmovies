@@ -153,6 +153,8 @@ nav{
 }
 
 .btn:hover{
+    border: none;
+    outline: none;
     background-color: rgb(198, 198, 38);
     color: black;
     transform: scale(1.1);
