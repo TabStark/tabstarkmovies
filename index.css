@@ -1209,6 +1209,21 @@ nav{
     .apple{
         display: none;
     }
+
+    .hinmovimg ul li a img:hover{
+        display: none;
+        
+        
+    }
+
+    .tammovimg ul li a img:hover{
+        display: none;
+    }
+
+    .engmovimg ul li a img:hover{
+        display: none;
+    }
+    
     
 }
 
